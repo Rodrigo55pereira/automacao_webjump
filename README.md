@@ -17,11 +17,11 @@ Processo de instalação:
 
   Após baixar o instalardo do Python e executar é necessário escolher a opção de instalação customizada, juntamento adicionando a opção "Add Python (Versão) to PATH"
   
-  ![print1!](https://lh3.googleusercontent.com/hjDGPDJKZ1BV4YFyBdu646rojnt6QtXP1jurZPXkCneON6rb7Ty3c2sK8Ywhw4ndMiRs5zvf5uG3Q5yJku-o=w1278-h867)
+  ![print1!](/img_tutorial/print1.png)
   
   Na instalação customizada a nível de praticidade preferi instalar o Python no C:. Como é mostrada na imagem abaixo, adicionar o caminho customizado e marquei a opção "Install for all users"
   
-  ![print2!](https://lh3.googleusercontent.com/l4N2zjF29UxOqlIq3GnLA9mHuwMXbDaTlhgYjtYeek4wZ70cuJugNEBOhFIHb4G7mg0qC7mIylASK81lZJc4=w1278-h410)
+  ![print2!](/img_tutorial/print2.png)
   
   
  ### Instalação do Robot Framework
@@ -36,7 +36,7 @@ Para saber a versão instalada basta digitar o camando no CMD:
 
 **robot --version**
 
-![print3!](https://lh6.googleusercontent.com/m34PiQTjvxwfGfv0kiprHDVa6pYcLeCW7B51Yoo-sBZW1JxaDJCt221Az4-pOuS55JQ1FS0jPxtZoB3TBYDe=w1278-h474)
+![print3!](/img_tutorial/print3.png)
  
 
 ### Instalação do [Browser Library](https://robotframework-browser.org/)
@@ -71,7 +71,7 @@ Realizar o git clone desse repositório para a sua maquina:
 
 Acessar a pasta do projeto via CMD 
 
-![print4!](https://lh4.googleusercontent.com/cNKQXrsbdb_NgUBCYjZqrXjX1LglNFb7mQlCaat046g5mzAUf4RX98LuI3Z4UKetMwQhLqXjGCEiKX7e6NTE=w1278-h931)
+![print4!](/img_tutorial/print4.png)
 
 Para a automação foram realizados dois cenários de teste, um englobando os cenários 1 e 2 **Clicar e verificar a ausência dos botões painel Buttons e IFrame Buttons** e outro o cenário 3 **Cenário 3 preenchimento de campos e validação de imagem**
 
@@ -81,17 +81,17 @@ A execução dos cenários 1 e 2 se dá pelo seguinte comando:
 
 Esse comando irá abrir o navegador em modo de execução e irá printar no console se o teste pasou ou não
 
-![print5!](https://lh5.googleusercontent.com/Tt5_wt3eTSwg9rkPmngofpFkr4S725b_4vP5gCUCKJilN8CYJd01jk4zYDhZ-4qZvNa9bjMhalOuO81vW47Z=w1278-h474)
+![print5!](/img_tutorial/print5.png)
 
 Além disso é criado na pasta /logs todos os relatórios de teste.
 
-![print6!](https://lh3.googleusercontent.com/SqSDNV9bNI_JAAhQljMvfUA8yKT0tJDcjymBpmmj7ZRpLcetYrNg4HZfh26ci93hIRv8KgNwm5ihq_Hen3CQ=w1278-h931)
+![print6!](/img_tutorial/print6.png)
 
 Para executar o cenário 3 basta digitar o seguinte comando:
 
 **robot -d logs\ tests\cenario3.robot**
 
-![print7!](https://lh5.googleusercontent.com/dW7xlplyFA2laHLpF7lMXLf_Ph6S1LZICJW08GUes0pQFpqRrkPLV1sR_VXG3FwqJxeQP9tU-zCsZhAxw27o=w1278-h931)
+![print7!](/img_tutorial/print7.png)
 
 
 
