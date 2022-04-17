@@ -1,3 +1,3 @@
 # automacao_webjump
-Repositório para avaliação de qa da WebJump
+## Repositório para avaliação processo seletivo automação da WebJump
 
