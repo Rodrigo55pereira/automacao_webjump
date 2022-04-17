@@ -81,7 +81,7 @@ A execução dos cenários 1 e 2 se dá pelo seguinte comando:
 
 Esse comando irá abrir o navegador em modo de execução e irá printar no console se o teste pasou ou não
 
-![print5!](https://lh6.googleusercontent.com/nhh_eDs1eZ2kH5tMpZPyBYLusd5RTw5hwVvhFU1fziWPN_I24QTgkTxliksHav7e2BcBkFU3fKaFkV3ZW22W=w1278-h931)
+![print5!](https://lh5.googleusercontent.com/Tt5_wt3eTSwg9rkPmngofpFkr4S725b_4vP5gCUCKJilN8CYJd01jk4zYDhZ-4qZvNa9bjMhalOuO81vW47Z=w1278-h474)
 
 Além disso é criado na pasta /logs todos os relatórios de teste.
 
